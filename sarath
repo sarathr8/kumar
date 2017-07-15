@@ -1,0 +1,122 @@
+
+SARATH R
+E-mail: sarathaws445@gmail.com 
+Mobile: +91 7997404630
+
+Summary: 
+
+          I have 4+ years of experience in IT industry. Currently I am working on Aws &DevOps, Configuration Management, Build Management, Requirement Management and Change Management by using licensed & other open source tools. On the server side I am working on Windows, Linux, AIX and Solaris OS.
+
+Technical Skills:
+
+•	Expertise in Amazon AWS Cloud Administration which includes services like: EC2, S3, EBS, VPC, ELB, AMI, SNS, RDS, IAM, Route 53, Auto scaling, Cloud Watch, Cloud Trail, Cloud Formation, OPS Work, Security Groups etc..,
+•	Administration various environments in software development life cycle (SDLC) Windows, Ubuntu, Red Hat Linux and CentOS. 
+•	Experience supporting Chef Environment with multi servers and involved in developing manifests. 
+•	Selecting & configuring web server roles i.e. Load Balancer, rev. proxy etc.
+•	Compiling them with required modules. Optimizing with carefully selecting worker process. Compression, etc
+•	Setting Memcach on AWS Elastic Cache & EC2 instances.
+•	Developed Cookbooks and Recipes to manage systems configuration. 
+•	Experience in branching, tagging and maintaining the version across the environments working on Software Configuration Management (SCM) tools like Subversion (SVN) and GIT.
+•	Experience in cloud stack such as AWS (Cloud formation) and stacks. 
+•	Ability to build deployment, build scripts and automated solutions using scripting languages such as Shell scripting(Bash), Ruby.
+•	Worked on web servers like Apache and application servers like Tomcat to deploy code.
+•	Extensively worked on Jenkins and Hudson by installing, configuring and maintaining for the purpose of continuous integration (CI) and for End to End automation for all build and deployments. 
+•	Extensive experience with software Build automation and standardization tools like ANT, Maven 
+•	Good knowledge in CI (Continuous Integration) and CD (Continuous Deployment) methodologies.
+•	Installed and Managed Jenkins for CI and Sharing Artifacts respectively within the company. 
+•	Configuring network services such as DNS, NFS, send mail, ftp, remote access, security management and Security trouble shooting skills.
+•	Closely worked with Developers and Analysts to address project requirements. Able to effectively manage time and prioritize multiple projects.
+•	Excellent communication, team membership and relationship management skills. 
+•	Creation of Clusters for Load Balancing and to provide Failover Environment.
+•	Launching Amazon EC2 Cloud Instances using Amazon Web Services (Linux/Ubuntu/RHEL) and Configuring launched instances with respect to specific applications.
+•	Amazon tools used include EC2, RDS, S3 storage, Oracle, Python, Chef, GIT, and Jenkins
+•	Experience with monitoring tools like Nagios and Amazon Cloud watch to monitor major metrics like Network packets, CPU utilization, Load Balancer Latency 
+•	Automated Regular AWS tasks like snapshots creation using python scripts.
+•	Devops experience with Chef, AWS (OPS Work) &familiar with network tool Nagios. 
+•	Configured and monitored distributed and multi-platform servers using Ops Work in AWS. Defined AWS stacks, layers and workstation to manage and configure nodes. 
+•	Installing, customizing web servers as per existing infrastructure.& requirements
+•	Choosing webservers as per load, hardware & application type.
+•	Strong ability to troubleshoot any issues generated while building, deploying and in production support.
+
+Technical Skills:
+
+Cloud Technologies		    :  AWS (VPC, EC2, S3, Cloud Watch, RDS, Cloud Front, Elastic Beanstalk).
+Operating Systems               :  Linux (Red Hat 5/6), Windows NT, 2008/2012, Ubuntu.
+Scripting languages              :  Shell Scripting, Python.
+Configuration Management:  Chef, Ansible.
+CI/CD Tools                          :  Jenkins & Hudson
+Version Control                    :   GIT, GIT Hub
+     Application Server               :  Apache 
+     Monitoring Tools                  :  CloudWatch,AppDynamics
+Educational Details: 
+
+Graduated in B.Tech From JNTUK in year 2013
+
+Professional Experience:
+
+	Working with CAPGEMINI, PUNE from April 2015 to till date.
+Key performance indicators:
+AWS/DevOps Administrator       
+
+•	Setup/Managing Linux Servers on Amazon ( EC2, EBS, ELB, SSL, Security Groups, RDS and IAM).
+•	Setup/Managing VPC, Subnets; make connection between different zones; blocking suspicious ip/subnet via ACL. 
+•	Setup/Managing CDN on Amazon CloudFront ( Origin Path: Server / S3)  to improve site  performance.
+•	Create/Managing buckets on S3 (CLI) and store db and logs backup, upload images for CDN serve.
+•	Setup/Managing Databases on Amazon RDS. Monitoring servers thorough Amazon Cloudwatch, SNS.
+•	Creating/Managing DNS records on Amazon Route 53 .
+•	Creating/Managing AMI/Snapshots/Volumes, Upgrade/downgrade AWS resources (CPU, Memory, EBS)
+•	Creating AWS Instances and Resources Bills.
+•	Launching Amazon EC2 Cloud Instances using Amazon Web Services (Linux/ Ubuntu/RHEL) and Configuring launched instances with respect to specific applications. 
+•	Performed S3 buckets creation, policies and also on the IAM role based polices and customizing the JSON template. 
+•	 Implemented and maintained the monitoring and alerting of production and corporate servers/storage using AWS Cloud watch. 
+•	 Managed servers on the Amazon Web Services (AWS) platform instances using  Chef Configuration management. 
+•	Create Chef Automation tools and builds, and do an overall process improvement to any manual processes. 
+•	Written Chef Cookbooks for various DB configurations to modularize and optimize end product configuration. 
+•	Installed application on AWS EC2 instances and also configured the storage on S3 buckets. 
+•	Converting production support scripts to chef recipes. And AWS server provisioning using Chef Recipes. 
+•	Experience with Build Management tools Ant and Maven for writing build.xmls. 
+•	Experienced in build and deployment of Java applications on to different environments such as QA, UAT and Production. 
+•	Branching, Tagging, Release Activities on Version Control Tools: SVN, GitHub.
+•	Extensive usage of Tortoise SVN in windows environment for version control activities. 
+•	Implemented Continuous Integration using Jenkins and Hudson. 
+•	Installed Workstation, Bootstrapped Nodes, Wrote Recipes and Cookbooks and uploaded them to Chef-server, Managed On-site OS/Applications/Services/ Packages using Chef as well as AWS for EC2/S3&ELB with Chef Cookbooks. 
+•	Deployed the java application into web application servers like Apache Tomcat. 
+•	Experienced in deployment of applications on Apache Web server, Nix and Application Servers such as Tomcat
+•	Application Deployments & Environment configuration using Chef. 
+
+	Worked with Sapiens, Bangalore from July 2013 to March 2015
+ 
+Key performance indicators:
+Linux/AWS Administrator
+
+       
+•	Worked on Production Server's on Amazon Cloud (EC2, EBS, RDS, S3, and Route 53).
+•	Worked and Troubleshoot Git Repositories on Production, Staging, Development and Local Server's.
+•	Configure User Required Domain’s on apache server.; User Administration and Permission;
+•	Monitor Production Server Health of different parameters (System Load, Physical Memory, Swap Memory, Hard disk, Apache requests, Mailq) via Nagios.
+•	Investigation and Recover of Production Server Issues like as Server load (Parsing, mailq, query stuck).
+•	Monitor MySQL Database Backup on AWS cloud S3 (CLI).
+•	Log Analysis, Maintaining Documents of production server log's reports and server's list.
+•	Install and configure Ubuntu, Centos on remote servers and Desktop servers. 
+•	Installation of patches and packages using RPM and YUM in Red hat Linux. 
+•	Installed and configured Apache/Tomcat web server. 
+•	Created and modified users and groups with SUDO permission. 
+•	Working with developers to load software onto Linux Enterprise servers and also debugging Scripts. 
+•	 Set up and administer user and groups accounts, setting permissions for users. 
+•	 Diagnosed and resolved problems associated with DNS, DHCP, VPN, NFS, and Apache. 
+•	Creation and administration of Virtual Machines using VMware and virtual box. 
+•	 OS upgrades and installation of third party software, packages and patches as per requirement.
+•	Responsible for configuring and connection to SSH through SSH clients like Putty 
+•	 Remotely copying files using SFTP, FTP, SCP, WinScp.
+•	 Regularly manage backup process for server and client data. 
+•	 Maintaining the Linux Firewall for network and implement to the network security. 
+•	 Troubleshooting the network with the help of net stat, ping, nslookup and trace route tools.
+•	 Resolving TCP/IP network access problems for the clients. Develop, Maintain, update various scripts for services (start, stop, restart, recycle, Cron jobs) UNIX based shell. 
+•	Experience installing and configuring SSH (Secure Shell) encryption in order to access securely on Ubuntu and Red hat Linux. 
+•	Installing open source application, search, analyze and develop new application for users. 
+
+
+
+            Place: PUNE                                                                                                   (SARATH .R)
+
+
